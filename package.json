@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p-jack/styled-elements.git"
+    "url": "git+https://github.com/p-jack/el.git"
   },
   "author": "Paul Jack",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/p-jack/styled-elements/issues"
+    "url": "https://github.com/p-jack/el/issues"
   },
-  "homepage": "https://github.com/p-jack/styled-elements#readme",
+  "homepage": "https://github.com/p-jack/el#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^6.4.1",
     "@types/jest": "^29.5.12",
