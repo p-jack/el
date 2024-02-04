@@ -17,7 +17,7 @@
     "url": "git+https://github.com/p-jack/el.git"
   },
   "author": "Paul Jack",
-  "license": "ISC",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/p-jack/el/issues"
   },
