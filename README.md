@@ -1,7 +1,9 @@
 # el
 
-`el` is a tiny library to *programmatically create DOM tress* from scripts:
+`el` is a tiny library to **programmatically create DOM trees** from scripts:
 
+    import { "el" } from "@pjack/el"
+        
     document.body.add(
       el("h1").inner("el"),
       el("p").add(
