@@ -1,5 +1,5 @@
 {
-  "name": "el",
+  "name": "@pjack/el",
   "version": "1.0.0",
   "description": "Quickly create DOM trees from scripts.",
   "main": "dist/index.js",
